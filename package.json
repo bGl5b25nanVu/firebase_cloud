@@ -1,0 +1,10 @@
+{
+  "name": "bGl5b25nanVu",
+  "version": "1.0.0",
+  "description": "firebase cloud",
+  "main": "index.js",
+  "repository": "https://github.com/bGl5b25nanVu/firebase_cloud.git",
+  "author": "bGl5b25nanVu",
+  "license": "MIT",
+  "private": true
+}
